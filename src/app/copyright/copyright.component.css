@@ -1,0 +1,13 @@
+.copyright-home{
+  width: 100%;
+  height: 4vh;
+  background: rgb(0, 83, 106);
+
+}
+p{
+  text-align: center;
+  user-select: none;
+  line-height: 4vh;
+  color: aliceblue;
+  font-family: cursive;
+}
